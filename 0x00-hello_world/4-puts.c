@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main use to print the required task
- * after that we return to zero
+ * main - use to print "Programming is like building a multilingual puzzle
+ * Return : 0 that we return to zero
 */
 int main(void)
 {
