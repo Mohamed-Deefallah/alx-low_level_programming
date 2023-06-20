@@ -1,9 +1,10 @@
 #include "main.h"
-/**main- print _putchar and the end  followed a new line
+/**
+ * main- print _putchar and the end  followed a new line
  * return: equal zero when sucess
- */
+*/
 
-int main (void)
+int main(void)
 {
 	_putchar('_');
 	_putchar('p');
