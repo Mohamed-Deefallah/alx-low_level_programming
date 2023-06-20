@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main -use to print th alphabet, in lowercase
+ * main - check the code
  * Return : sucsess when return zero
  */
 
