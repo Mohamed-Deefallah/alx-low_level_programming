@@ -1,7 +1,6 @@
 #include "main.h"
 /**
- * main-print ten times lowercase alphabet
- * print_alphabet_x10 -print ten times
+ * pnrint_alphabet_x10 - print ten times
  * Return: sucess equal zero
  */
 
