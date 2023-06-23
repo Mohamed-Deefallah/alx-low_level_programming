@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - the function of theentry point
+ * main - the function of the entry point
  * Return: will be zer if success
  */
 int main(void)
