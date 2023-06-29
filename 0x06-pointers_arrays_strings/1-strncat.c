@@ -6,7 +6,7 @@
  * @src: the source of string
  * @n: no. of bytes for string and concat.
  * Return: success when result dest
- * */
+ */
 char *_strncat(char *dest, char *src, int n)
 {
 	int i, j;
